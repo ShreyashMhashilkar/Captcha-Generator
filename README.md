@@ -5,8 +5,16 @@ Steps to follow:
 
 1)Install captcha using the command
 
-```pip install captcha```
+```
+
+pip install captcha
+
+```
 
 2)Run the below command to start the project
 
-```py captcha_generator.py```
+```
+
+py captcha_generator.py
+
+```
